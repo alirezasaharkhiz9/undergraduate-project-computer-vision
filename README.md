@@ -7,8 +7,9 @@ This undergraduate project focuses on exploring and developing advanced techniqu
 ### Table of Contents
 
 1.  [Project Structure](#project-structure)
-2.  [Technologies](#technologies)
-3.  [Roadmap](#roadmap)
+2.  [Modern CV vs Classical CV](#modern-cv-vs-classical-cv)
+3.  [Technologies](#technologies)
+4.  [Roadmap](#roadmap)
 
 ### Project Structure
 
@@ -25,6 +26,17 @@ The project will be organized into the following sections:
 - Vision Transformers: The Future of Computer Vision
 - Object Detection with YOLO
 - Facial Recognition using Deep Learning
+
+### Modern CV vs Classical CV
+
+| **Topic**                          | **Classical Computer Vision**                                                | **Modern Computer Vision (Using Deep Learning)**                                                                |
+|-----------------|-----------------------|---------------------------------|
+| **Definition and Core Principles** | Based on hand-crafted algorithms and engineered features.                    | Based on deep neural networks and learning from large datasets.                                                 |
+| **Feature Extraction Method**      | Features are extracted manually using algorithms like SIFT, SURF, and HOG.   | Features are automatically learned by convolutional neural networks (CNNs).                                     |
+| **Accuracy**                       | Accuracy is usually limited and optimization for complex problems is harder. | Generally achieves much higher accuracy, especially in complex tasks like image recognition and classification. |
+| **Amount of Data Required**        | Requires less data, but models are usually less optimized.                   | Requires large amounts of data for effective learning.                                                          |
+| **Computational Complexity**       | Generally lighter and simpler in computation.                                | Heavier in computation and requires powerful hardware (GPUs).                                                   |
+
 
 ### Technologies
 

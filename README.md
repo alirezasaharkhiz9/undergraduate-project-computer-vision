@@ -6,30 +6,31 @@ This undergraduate project focuses on exploring and developing advanced techniqu
 
 ### Table of Contents
 
-1.  [Project Structure](#project-structure)\
-2.  [Technologies](#technologies)\
-3.  [Roadmap](#roadmap)\
+1.  [Project Structure](#project-structure)
+2.  [Technologies](#technologies)
+3.  [Roadmap](#roadmap)
 
-### Project Structure {#project-structure}
+### Project Structure
 
-The project will be organized into the following sections: - **Classic Computer Vision**\
-- Fundamentals and Techniques of Image Processing\
-- Video Processing, Analysis, and Feature Extraction\
-- Classical Object Detection Algorithms - **Modern Computer Vision - Deep Learning**\
-- Implementing Artificial Neural Networks (ANN)\
-- Implementing Convolutional Neural Networks (CNN) with PyTorch\
-- Understanding and Implementing Residual Blocks\
-- Transfer Learning and Pre-Trained Models\
-- Vision Transformers: The Future of Computer Vision\
-- Efficient Object Detection with YOLO\
+The project will be organized into the following sections: - **Classic Computer Vision**
+- Fundamentals and Techniques of Image Processing
+- Video Processing, Analysis, and Feature Extraction
+- Classical Object Detection Algorithms - **Modern Computer Vision - Deep Learning**
+- Implementing Artificial Neural Networks (ANN)
+- Implementing Convolutional Neural Networks (CNN) with PyTorch
+- Understanding and Implementing Residual Blocks
+- Transfer Learning and Pre-Trained Models
+- Vision Transformers: The Future of Computer Vision
+- Efficient Object Detection with YOLO
 - Facial Recognition using Deep Learning
 
-### Technologies {#technologies}
+### Technologies
 
--   **Languages**: Python\
+-   **Languages**: Python
 -   **Tools**: Jupyter Notebook
 
-### Roadmap {#roadmap}
+### Roadmap
 
-The project will progress through the following phases: 1. **Phase 1**: Implementing Classical Computer Vision Techniques\
-2. **Phase 2**: Building and Training Deep Learning Models with PyTorch and tensorflow, keras\
+The project will progress through the following phases:
+1. **Phase 1**: Implementing Classical Computer Vision Techniques
+2. **Phase 2**: Building and Training Deep Learning Models with PyTorch and tensorflow, keras

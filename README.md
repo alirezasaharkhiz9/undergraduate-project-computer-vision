@@ -13,7 +13,7 @@ This undergraduate project focuses on exploring and developing advanced techniqu
 ### Project Structure
 
 The project will be organized into the following sections:
-#### Classic Computer Vision
+#### Classical Computer Vision
 - Fundamentals and Techniques of Image Processing
 - Video Processing
 - Classical Object Detection Algorithms

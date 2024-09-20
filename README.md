@@ -15,7 +15,7 @@ This undergraduate project focuses on exploring and developing advanced techniqu
 The project will be organized into the following sections:
 #### Classic Computer Vision
 - Fundamentals and Techniques of Image Processing
-- Video Processing, Analysis, and Feature Extraction
+- Video Processing
 - Classical Object Detection Algorithms
 #### Modern Computer Vision - Deep Learning
 - Implementing Artificial Neural Networks (ANN)
@@ -23,7 +23,7 @@ The project will be organized into the following sections:
 - Understanding and Implementing Residual Blocks
 - Transfer Learning and Pre-Trained Models
 - Vision Transformers: The Future of Computer Vision
-- Efficient Object Detection with YOLO
+- Object Detection with YOLO
 - Facial Recognition using Deep Learning
 
 ### Technologies

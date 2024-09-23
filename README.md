@@ -14,12 +14,12 @@ This undergraduate project focuses on exploring and developing advanced techniqu
 ### Project Structure
 
 The project will be organized into the following sections:
-#### Classical Computer Vision
+##### 1. Classical Computer Vision
 - Fundamentals and Techniques of Image Processing
 - Classical Object Detection Algorithms
 - facial detection
 - Video Processing
-#### Modern Computer Vision - Deep Learning
+##### 2. Modern Computer Vision - Deep Learning
 - Implementing Artificial Neural Networks (ANN)
 - Implementing Convolutional Neural Networks (CNN) with PyTorch
 - Understanding and Implementing Residual connections

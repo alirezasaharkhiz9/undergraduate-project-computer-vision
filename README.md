@@ -8,8 +8,8 @@ This undergraduate project focuses on exploring and developing advanced techniqu
 
 1.  [Project Structure](#project-structure)
 2.  [Modern CV vs Classical CV](#modern-cv-vs-classical-cv)
-3.  [Technologies](#technologies)
-4.  [Roadmap](#roadmap)
+3.  [Roadmap](#roadmap)
+4.  [Requirements](#requirements)
 
 ### Project Structure
 
@@ -39,13 +39,22 @@ The project will be organized into the following sections:
 | **Computational Complexity**       | Generally lighter and simpler in computation.                                | Heavier in computation and requires powerful hardware (GPUs).                                                   |
 
 
-### Technologies
-
--   **Languages**: Python
--   **Tools**: Jupyter Notebook
-
 ### Roadmap
 
 The project will progress through the following phases:
 1. **Phase 1**: Implementing Classical Computer Vision Techniques
 2. **Phase 2**: Building and Training Deep Learning Models with PyTorch and tensorflow, keras
+
+
+### Requirements
+
+To run the project, you'll need:
+
+-   Python 3.x
+-   Required libraries listed in requirements.txt.
+
+You can install the dependencies using:
+
+``` bash
+pip install -r requirements.txt
+```

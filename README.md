@@ -52,6 +52,7 @@ The project will progress through the following phases:
 To run the project, you'll need:
 
 -   Python 3.x
+-   tools: Jupyter Lab, Colab
 -   Required libraries listed in requirements.txt.
 
 You can install the dependencies using:

@@ -66,3 +66,4 @@ pip install -r requirements.txt
 
 - Modern Computer Vision with PyTorch. (2024)
 - Deep Learning for Vision Systems. (2020)
+- Modern Computer Vision™ PyTorch, Tensorflow2 Keras & OpenCV4. (udemy)

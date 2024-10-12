@@ -10,6 +10,7 @@ This undergraduate project focuses on exploring and developing advanced techniqu
 2.  [Modern CV vs Classical CV](#modern-cv-vs-classical-cv)
 3.  [Roadmap](#roadmap)
 4.  [Requirements](#requirements)
+5.  [Educational Resources](#educational-resources)
 
 ### Project Structure
 
@@ -60,3 +61,8 @@ You can install the dependencies using:
 ``` bash
 pip install -r requirements.txt
 ```
+
+### Educational Resources:
+
+- Modern Computer Vision with PyTorch. (2024)
+- Deep Learning for Vision Systems. (2020)

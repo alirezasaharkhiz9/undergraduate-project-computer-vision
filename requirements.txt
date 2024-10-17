@@ -3,3 +3,5 @@ matplotlib
 numpy
 pytesseract
 easyocr
+tensorflow
+keras

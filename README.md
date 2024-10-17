@@ -22,8 +22,7 @@ The project will be organized into the following sections:
 - Face Detection
 - Text Detection
 ##### 2. Modern Computer Vision - Deep Learning
-- Implementing Artificial Neural Networks (ANN)
-- Implementing Convolutional Neural Networks (CNN) with PyTorch
+- Implementing Convolutional Neural Networks (CNN)
 - Understanding and Implementing Residual connections
 - Transfer Learning and Pre-Trained Models
 - Vision Transformers: The Future of Computer Vision

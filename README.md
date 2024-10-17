@@ -2,7 +2,7 @@
 
 ### Overview
 
-This undergraduate project focuses on exploring and developing advanced techniques in computer vision, structured into two main sections: Classical Computer Vision and Modern Deep Learning-based Computer Vision. The project begins by covering the fundamentals of image processing, video analysis, and classical object detection algorithms. In the second part, using cutting-edge tools like PyTorch, artificial neural networks (ANN) and convolutional neural networks (CNN) will be implemented. The project also delves into modern techniques such as transfer learning, pre-trained models, and the emerging Vision Transformers. Furthermore, efficient object detection with YOLO and facial recognition using deep learning will be thoroughly explored.
+This undergraduate project focuses on exploring and developing advanced techniques in computer vision, structured into two main sections: Classical Computer Vision and Modern Deep Learning-based Computer Vision. The project begins by covering the fundamentals of image processing, video analysis, and classical object detection algorithms. In the second part, using cutting-edge tools like PyTorch, convolutional neural networks (CNN) will be implemented. The project also delves into modern techniques such as transfer learning, pre-trained models, and the emerging Vision Transformers. Furthermore, efficient object detection with YOLO and facial recognition using deep learning will be thoroughly explored.
 
 ### Table of Contents
 

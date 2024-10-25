@@ -23,7 +23,7 @@ The project will be organized into the following sections:
 - Text Detection
 ##### 2. Modern Computer Vision - Deep Learning
 - Implementing Convolutional Neural Networks (CNN)
-- Understanding and Implementing Residual connections
+- Understanding and Implementing Residual Network Architecture
 - Transfer Learning and Pre-Trained Models
 - Vision Transformers: The Future of Computer Vision
 - Object Detection with YOLO

@@ -15,13 +15,13 @@ This undergraduate project focuses on exploring and developing advanced techniqu
 ### Project Structure
 
 The project will be organized into the following sections:
-##### 1. Classical Computer Vision
+##### 1. [Classical Computer Vision](https://github.com/alirezasaharkhiz9/undergraduate-project-computer-vision/tree/main/Classical%20Computer%20Vision)
 - Fundamentals and Techniques of Image Processing
 - Working with Video
 - Object Detection Algorithms
 - Face Detection
 - Text Detection
-##### 2. Modern Computer Vision - Deep Learning
+##### 2. [Modern Computer Vision - Deep Learning](https://github.com/alirezasaharkhiz9/undergraduate-project-computer-vision/tree/main/Modern%20Computer%20Vision)
 - Implementing Convolutional Neural Networks (CNN)
 - Understanding and Implementing Residual Network Architecture
 - Transfer Learning and Pre-Trained Models

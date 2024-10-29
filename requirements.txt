@@ -4,4 +4,10 @@ numpy
 pytesseract
 easyocr
 tensorflow
-keras
+os-sys
+pytorch-lightning
+torch
+torchvision
+torchsummary
+torchmetrics
+visualtorch

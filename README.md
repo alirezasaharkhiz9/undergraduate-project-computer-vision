@@ -63,6 +63,6 @@ pip install -r requirements.txt
 
 ### Educational Resources:
 
-- Modern Computer Vision with PyTorch. (2024)
-- Deep Learning for Vision Systems. (2020)
-- Modern Computer Vision™ PyTorch, Tensorflow2 Keras & OpenCV4. (udemy)
+- Ayyadevara, V. K., & Reddy, Y. (2024). Modern Computer Vision with PyTorch - Second Edition: A practical roadmap from deep learning fundamentals to advanced applications and Generative AI (2nd ed.). Packt Publishing.
+- Elgendy, M. (2020). Deep Learning for Vision Systems (1st ed.). Manning.
+- Ratan, R. D. (2024). Modern Computer Vision GPT, PyTorch, Keras, OpenCV4 in 2024! Next-Gen Computer Vision: YOLOv8, DINO-GPT4V, OpenCV4, Face Recognition, GenerativeAI, Diffusion Models & Transformers [Online course]. Udemy.

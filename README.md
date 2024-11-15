@@ -10,7 +10,7 @@ This undergraduate project focuses on exploring and developing advanced techniqu
 2.  [Modern CV vs Classical CV](#modern-cv-vs-classical-cv)
 3.  [Roadmap](#roadmap)
 4.  [Requirements](#requirements)
-5.  [Educational Resources](#educational-resources)
+5.  [References](#references)
 
 ### Project Structure
 
@@ -61,7 +61,7 @@ You can install the dependencies using:
 pip install -r requirements.txt
 ```
 
-### Educational Resources:
+### References:
 
 - Ayyadevara, V. K., & Reddy, Y. (2024). Modern Computer Vision with PyTorch - Second Edition: A practical roadmap from deep learning fundamentals to advanced applications and Generative AI (2nd ed.). Packt Publishing.
 - Elgendy, M. (2020). Deep Learning for Vision Systems (1st ed.). Manning.

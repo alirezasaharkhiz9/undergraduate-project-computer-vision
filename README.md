@@ -25,6 +25,8 @@ The project will be organized into the following sections:
 - Implementing Convolutional Neural Networks (CNN)
 - Understanding and Implementing Residual Network Architecture
 - Transfer Learning and Pre-Trained Models
+- Autoencoder
+- Generative adversarial network
 - Vision Transformers: The Future of Computer Vision
 - Object Detection with YOLO
 - Facial Recognition using Deep Learning

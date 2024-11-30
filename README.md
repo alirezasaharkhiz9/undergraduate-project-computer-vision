@@ -27,6 +27,7 @@ The project will be organized into the following sections:
 - Transfer Learning and Pre-Trained Models
 - Autoencoder
 - Generative adversarial network
+- Image segmentation with U-net
 - Vision Transformers: The Future of Computer Vision
 - Object Detection with YOLO
 - Facial Recognition using Deep Learning

@@ -30,6 +30,7 @@ The project will be organized into the following sections:
 - Image segmentation with U-net
 - Vision Transformers: The Future of Computer Vision
 - Object Detection with YOLO
+- Image captioning
 - Facial Recognition using Deep Learning
 
 ### Modern CV vs Classical CV

@@ -15,7 +15,7 @@ This undergraduate project focuses on exploring and developing advanced techniqu
 ### Project Structure
 
 The project will be organized into the following sections:
-##### 1. [Classical Computer Vision](https://github.com/alirezasaharkhiz9/undergraduate-project-computer-vision/tree/main/Classical%20Computer%20Vision)
+#### 1. [Classical Computer Vision](https://github.com/alirezasaharkhiz9/undergraduate-project-computer-vision/tree/main/Classical%20Computer%20Vision)
 - Image Processing
   - [Image processing](https://github.com/alirezasaharkhiz9/undergraduate-project-computer-vision/blob/main/Classical%20Computer%20Vision/ImageProcessing.ipynb)
 - Video Processing
@@ -26,7 +26,7 @@ The project will be organized into the following sections:
   - [Face Detection](https://github.com/alirezasaharkhiz9/undergraduate-project-computer-vision/blob/main/Classical%20Computer%20Vision/FaceDetection.ipynb)
 - OCR
   - [Text Detection](https://github.com/alirezasaharkhiz9/undergraduate-project-computer-vision/blob/main/Classical%20Computer%20Vision/TextDetection.ipynb)
-##### 2. [Modern Computer Vision - Deep Learning](https://github.com/alirezasaharkhiz9/undergraduate-project-computer-vision/tree/main/Modern%20Computer%20Vision)
+#### 2. [Modern Computer Vision - Deep Learning](https://github.com/alirezasaharkhiz9/undergraduate-project-computer-vision/tree/main/Modern%20Computer%20Vision)
 - Image Classification
   - [Cnn Model theory](https://github.com/alirezasaharkhiz9/undergraduate-project-computer-vision/blob/main/Modern%20Computer%20Vision/CnnModelTheory.ipynb)
   - [Cnn With Keras (Normal, Pneumonia and Tuberculosis Lungs)](https://github.com/alirezasaharkhiz9/undergraduate-project-computer-vision/blob/main/Modern%20Computer%20Vision/CnnWithKeras.ipynb)

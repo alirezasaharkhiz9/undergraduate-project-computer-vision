@@ -16,22 +16,32 @@ This undergraduate project focuses on exploring and developing advanced techniqu
 
 The project will be organized into the following sections:
 ##### 1. [Classical Computer Vision](https://github.com/alirezasaharkhiz9/undergraduate-project-computer-vision/tree/main/Classical%20Computer%20Vision)
-- Fundamentals and Techniques of Image Processing
-- Working with Video
-- Object Detection Algorithms
+- Image Processing
+  - [Image processing](https://github.com/alirezasaharkhiz9/undergraduate-project-computer-vision/blob/main/Classical%20Computer%20Vision/ImageProcessing.ipynb)
+- Video Processing
+  - [Working with Video](https://github.com/alirezasaharkhiz9/undergraduate-project-computer-vision/blob/main/Classical%20Computer%20Vision/WorkingWithVideo.ipynb)
+- Object Detection
+  - [Object Detection](https://github.com/alirezasaharkhiz9/undergraduate-project-computer-vision/blob/main/Classical%20Computer%20Vision/ObjectDetection.ipynb)
 - Face Detection
-- Text Detection
+  - [Face Detection](https://github.com/alirezasaharkhiz9/undergraduate-project-computer-vision/blob/main/Classical%20Computer%20Vision/FaceDetection.ipynb)
+- OCR
+  - [Text Detection](https://github.com/alirezasaharkhiz9/undergraduate-project-computer-vision/blob/main/Classical%20Computer%20Vision/TextDetection.ipynb)
 ##### 2. [Modern Computer Vision - Deep Learning](https://github.com/alirezasaharkhiz9/undergraduate-project-computer-vision/tree/main/Modern%20Computer%20Vision)
-- Implementing Convolutional Neural Networks (CNN)
-- Understanding and Implementing Residual Network Architecture
-- Transfer Learning and Pre-Trained Models
-- Autoencoder
-- Generative adversarial network
-- Image segmentation with U-net
-- Vision Transformers: The Future of Computer Vision
-- Object Detection with YOLO
-- Image captioning
-- Facial Recognition using Deep Learning
+- Image Classification
+  - [Cnn Model theory](https://github.com/alirezasaharkhiz9/undergraduate-project-computer-vision/blob/main/Modern%20Computer%20Vision/CnnModelTheory.ipynb)
+  - [Cnn With Keras (Normal, Pneumonia and Tuberculosis Lungs)](https://github.com/alirezasaharkhiz9/undergraduate-project-computer-vision/blob/main/Modern%20Computer%20Vision/CnnWithKeras.ipynb)
+  - [CNN With Pytorch Lightning (Fundus Glaucoma Detection)](https://github.com/alirezasaharkhiz9/undergraduate-project-computer-vision/blob/main/Modern%20Computer%20Vision/CnnWithPytorchLightning.ipynb)
+  - [Residual Network With Pytorch Lightning (Normal, Pneumonia and Tuberculosis Lungs)](https://github.com/alirezasaharkhiz9/undergraduate-project-computer-vision/blob/main/Modern%20Computer%20Vision/ResidualNetworkWithPytorchLightning.ipynb)
+- Image Manipulation
+  - [AutoEncoder With Keras (The main objective of creating this dataset is to create autoencoder network that can colorized grayscale landscape images)](https://github.com/alirezasaharkhiz9/undergraduate-project-computer-vision/blob/main/Modern%20Computer%20Vision/AutoEncoderWithKeras.ipynb)
+- Image Generation
+  - [DCGAN With Keras (GAN using the MNIST dataset)](https://github.com/alirezasaharkhiz9/undergraduate-project-computer-vision/blob/main/Modern%20Computer%20Vision/DCGANWithKeras.ipynb)
+- Image Segmentation
+  - [Lungs Segmentation Using U-Net architecture](https://github.com/alirezasaharkhiz9/undergraduate-project-computer-vision/blob/main/Modern%20Computer%20Vision/LungsSegmentationUsingU_Net.ipynb)
+- Object Detection
+  - [Object Detection Using YOLO v5 (road-detection)](https://github.com/alirezasaharkhiz9/undergraduate-project-computer-vision/blob/main/Modern%20Computer%20Vision/ObjectDetectionUsingYOLOv5.ipynb)
+  - [Object Detection Using YOLO v8 (Bone Fracture Detection)](https://github.com/alirezasaharkhiz9/undergraduate-project-computer-vision/blob/main/Modern%20Computer%20Vision/ObjectDetectionUsingYOLOv8.ipynb)
+  - [Object Detection Using YOLO v11 (Tumor Detection)](https://github.com/alirezasaharkhiz9/undergraduate-project-computer-vision/blob/main/Modern%20Computer%20Vision/TumorDetectionUsingYolov11.ipynb)
 
 ### Modern CV vs Classical CV
 

@@ -11,3 +11,7 @@ torchvision
 torchsummary
 torchmetrics
 visualtorch
+roboflow
+ultralytics
+visualkeras
+scipy

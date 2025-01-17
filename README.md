@@ -38,6 +38,7 @@ The project will be organized into the following sections:
   - [DCGAN With Keras (GAN using the MNIST dataset)](https://github.com/alirezasaharkhiz9/undergraduate-project-computer-vision/blob/main/Modern%20Computer%20Vision/DCGANWithKeras.ipynb)
 - Image Segmentation
   - [Lungs Segmentation Using U-Net architecture](https://github.com/alirezasaharkhiz9/undergraduate-project-computer-vision/blob/main/Modern%20Computer%20Vision/LungsSegmentationUsingU_Net.ipynb)
+  - [Tumor Segmentation Using Yolo v11](https://github.com/alirezasaharkhiz9/undergraduate-project-computer-vision/blob/main/Modern%20Computer%20Vision/TumorSegmentationUsingYolo.ipynb)
 - Object Detection
   - [Object Detection Using YOLO v5 (road-detection)](https://github.com/alirezasaharkhiz9/undergraduate-project-computer-vision/blob/main/Modern%20Computer%20Vision/ObjectDetectionUsingYOLOv5.ipynb)
   - [Object Detection Using YOLO v8 (Bone Fracture Detection)](https://github.com/alirezasaharkhiz9/undergraduate-project-computer-vision/blob/main/Modern%20Computer%20Vision/ObjectDetectionUsingYOLOv8.ipynb)

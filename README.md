@@ -48,7 +48,7 @@ The project will be organized into the following sections:
 - Pose Estimation
   - [Pose Estimation With Yolo v11 (human pose estimation)](https://github.com/alirezasaharkhiz9/undergraduate-project-computer-vision/blob/main/Modern%20Computer%20Vision/PoseEstimationWithYolo.ipynb)
 - Face Recognition
-  - ?
+  - [Facial Recognition With Deep Face](https://github.com/alirezasaharkhiz9/undergraduate-project-computer-vision/blob/main/Modern%20Computer%20Vision/FacialRecognitionWithDeepFace.ipynb)
 
 ### Modern CV vs Classical CV
 

@@ -46,6 +46,7 @@ The project will be organized into the following sections:
 - Object Tracking
   - [Object Tracking With YOLO v11](https://github.com/alirezasaharkhiz9/undergraduate-project-computer-vision/blob/main/Modern%20Computer%20Vision/ObjectTrackingWithYolo.ipynb) - [Download Result Video](https://raw.githubusercontent.com/alirezasaharkhiz9/undergraduate-project-computer-vision/main/Modern%20Computer%20Vision/ObjectTrackingWithYolo.avi)
   - [Tracking and Counting With YOLO v11](https://github.com/alirezasaharkhiz9/undergraduate-project-computer-vision/blob/main/Modern%20Computer%20Vision/TrackingAndCounting.ipynb) - [Download Result Video](https://raw.githubusercontent.com/alirezasaharkhiz9/undergraduate-project-computer-vision/main/Modern%20Computer%20Vision/TrackingAndCounting.mp4)
+  - [Speed Estimation With YOLO v11](https://github.com/alirezasaharkhiz9/undergraduate-project-computer-vision/blob/main/Modern%20Computer%20Vision/SpeedEstimation.ipynb) - [Download Result Video](https://raw.githubusercontent.com/alirezasaharkhiz9/undergraduate-project-computer-vision/main/Modern%20Computer%20Vision/SpeedEstimation.avi)
 - Pose Estimation
   - [Pose Estimation With Yolo v11 (human pose estimation)](https://github.com/alirezasaharkhiz9/undergraduate-project-computer-vision/blob/main/Modern%20Computer%20Vision/PoseEstimationWithYolo.ipynb)
 - Face Recognition

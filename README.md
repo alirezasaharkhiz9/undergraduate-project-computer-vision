@@ -16,20 +16,20 @@ This undergraduate project focuses on exploring and developing advanced techniqu
 
 The project will be organized into the following sections:
 #### 1. [ **Classical Computer Vision** ](https://github.com/alirezasaharkhiz9/undergraduate-project-computer-vision/tree/main/Classical%20Computer%20Vision)
-- [*Image Processing*](https://github.com/alirezasaharkhiz9/Computer-Vision/tree/main/Classical%20Computer%20Vision/Image%20Processing)
+- [***Image Processing***](https://github.com/alirezasaharkhiz9/Computer-Vision/tree/main/Classical%20Computer%20Vision/Image%20Processing)
   
   - [Image processing](https://github.com/alirezasaharkhiz9/Computer-Vision/blob/main/Classical%20Computer%20Vision/Image%20Processing/ImageProcessing.ipynb)
-- [*Video Processing*](https://github.com/alirezasaharkhiz9/Computer-Vision/tree/main/Classical%20Computer%20Vision/Video%20Processing)
+- [***Video Processing***](https://github.com/alirezasaharkhiz9/Computer-Vision/tree/main/Classical%20Computer%20Vision/Video%20Processing)
   - [Working with Video](https://github.com/alirezasaharkhiz9/Computer-Vision/blob/main/Classical%20Computer%20Vision/Video%20Processing/WorkingWithVideo.ipynb)
-- [*Object Detection*](https://github.com/alirezasaharkhiz9/Computer-Vision/tree/main/Classical%20Computer%20Vision/Object%20Detection)
+- [***Object Detection***](https://github.com/alirezasaharkhiz9/Computer-Vision/tree/main/Classical%20Computer%20Vision/Object%20Detection)
   - [Object Detection](https://github.com/alirezasaharkhiz9/Computer-Vision/blob/main/Classical%20Computer%20Vision/Object%20Detection/ObjectDetection.ipynb)
-- [*Face Detection*](https://github.com/alirezasaharkhiz9/Computer-Vision/tree/main/Classical%20Computer%20Vision/Face%20Detection)
+- [***Face Detection***](https://github.com/alirezasaharkhiz9/Computer-Vision/tree/main/Classical%20Computer%20Vision/Face%20Detection)
   - [Face Detection](https://github.com/alirezasaharkhiz9/Computer-Vision/blob/main/Classical%20Computer%20Vision/Face%20Detection/FaceDetection.ipynb)
-- [*OCR*](https://github.com/alirezasaharkhiz9/Computer-Vision/tree/main/Classical%20Computer%20Vision/OCR)
+- [***OCR***](https://github.com/alirezasaharkhiz9/Computer-Vision/tree/main/Classical%20Computer%20Vision/OCR)
   - [Text Detection](https://github.com/alirezasaharkhiz9/Computer-Vision/blob/main/Classical%20Computer%20Vision/OCR/TextDetection.ipynb)
   
 #### 2. [ **Modern Computer Vision - Deep Learning** ](https://github.com/alirezasaharkhiz9/undergraduate-project-computer-vision/tree/main/Modern%20Computer%20Vision)
-- [*Image Classification*](https://github.com/alirezasaharkhiz9/Computer-Vision/tree/main/Modern%20Computer%20Vision/Image%20Classification)
+- [***Image Classification***](https://github.com/alirezasaharkhiz9/Computer-Vision/tree/main/Modern%20Computer%20Vision/Image%20Classification)
   
   - [Cnn Model theory](https://github.com/alirezasaharkhiz9/Computer-Vision/blob/main/Modern%20Computer%20Vision/Image%20Classification/CnnModelTheory.ipynb)
 
@@ -37,28 +37,28 @@ The project will be organized into the following sections:
   - [CNN With Pytorch Lightning (Fundus Glaucoma Detection)](https://github.com/alirezasaharkhiz9/Computer-Vision/blob/main/Modern%20Computer%20Vision/Image%20Classification/CnnWithPytorchLightning.ipynb)
   - [Residual Network With Pytorch Lightning (Normal, Pneumonia and Tuberculosis Lungs)](https://github.com/alirezasaharkhiz9/Computer-Vision/blob/main/Modern%20Computer%20Vision/Image%20Classification/ResidualNetworkWithPytorchLightning.ipynb)
 
-- [*Image Manipulation*](https://github.com/alirezasaharkhiz9/Computer-Vision/tree/main/Modern%20Computer%20Vision/Image%20Manipulation)
+- [***Image Manipulation***](https://github.com/alirezasaharkhiz9/Computer-Vision/tree/main/Modern%20Computer%20Vision/Image%20Manipulation)
 
   - [AutoEncoder With Keras (The main objective of creating this dataset is to create autoencoder network that can colorized grayscale landscape images)](https://github.com/alirezasaharkhiz9/Computer-Vision/blob/main/Modern%20Computer%20Vision/Image%20Manipulation/AutoEncoderWithKeras.ipynb)
 
-- [*Image Generation*](https://github.com/alirezasaharkhiz9/Computer-Vision/tree/main/Modern%20Computer%20Vision/Image%20Generation)
+- [***Image Generation***](https://github.com/alirezasaharkhiz9/Computer-Vision/tree/main/Modern%20Computer%20Vision/Image%20Generation)
 
   - [DCGAN With Keras (GAN using the MNIST dataset)](https://github.com/alirezasaharkhiz9/Computer-Vision/blob/main/Modern%20Computer%20Vision/Image%20Generation/DCGANWithKeras.ipynb)
 
-- [*Image Segmentation*](https://github.com/alirezasaharkhiz9/Computer-Vision/tree/main/Modern%20Computer%20Vision/Image%20Segmentation)
+- [***Image Segmentation***](https://github.com/alirezasaharkhiz9/Computer-Vision/tree/main/Modern%20Computer%20Vision/Image%20Segmentation)
 
   - [Lungs Segmentation Using U-Net architecture](https://github.com/alirezasaharkhiz9/Computer-Vision/blob/main/Modern%20Computer%20Vision/Image%20Segmentation/LungsSegmentationUsingU_Net.ipynb)
 
   - [Tumor Segmentation Using Yolo v11](https://github.com/alirezasaharkhiz9/Computer-Vision/blob/main/Modern%20Computer%20Vision/Image%20Segmentation/TumorSegmentationUsingYolo.ipynb)
 
-- [*Object Detection*](https://github.com/alirezasaharkhiz9/Computer-Vision/tree/main/Modern%20Computer%20Vision/Object%20Detection)
+- [***Object Detection***](https://github.com/alirezasaharkhiz9/Computer-Vision/tree/main/Modern%20Computer%20Vision/Object%20Detection)
 
   - [Object Detection Using YOLO v5 (road-detection)](https://github.com/alirezasaharkhiz9/Computer-Vision/blob/main/Modern%20Computer%20Vision/Object%20Detection/ObjectDetectionUsingYOLOv5.ipynb)
 
   - [Object Detection Using YOLO v8 (Bone Fracture Detection)](https://github.com/alirezasaharkhiz9/undergraduate-project-computer-vision/blob/main/Modern%20Computer%20Vision/ObjectDetectionUsingYOLOv8.ipynb)
   - [Object Detection Using YOLO v11 (Tumor Detection)](https://github.com/alirezasaharkhiz9/Computer-Vision/blob/main/Modern%20Computer%20Vision/Object%20Detection/TumorDetectionUsingYolov11.ipynb)
 
-- [*Object Tracking*](https://github.com/alirezasaharkhiz9/Computer-Vision/tree/main/Modern%20Computer%20Vision/Object%20Tracking)
+- [***Object Tracking***](https://github.com/alirezasaharkhiz9/Computer-Vision/tree/main/Modern%20Computer%20Vision/Object%20Tracking)
 
   - [Object Tracking With YOLO v11](https://github.com/alirezasaharkhiz9/Computer-Vision/blob/main/Modern%20Computer%20Vision/Object%20Tracking/ObjectTrackingWithYolo.ipynb) - [Download Result Video](https://raw.githubusercontent.com/alirezasaharkhiz9/undergraduate-project-computer-vision/main/Modern%20Computer%20Vision/Object%20Tracking/ObjectTrackingWithYolo.avi)
 
@@ -66,10 +66,10 @@ The project will be organized into the following sections:
   - [Speed Estimation With YOLO v11](https://github.com/alirezasaharkhiz9/Computer-Vision/blob/main/Modern%20Computer%20Vision/Object%20Tracking/SpeedEstimation.ipynb) - [Download Result Video](https://raw.githubusercontent.com/alirezasaharkhiz9/undergraduate-project-computer-vision/main/Modern%20Computer%20Vision/Object%20Tracking/SpeedEstimation.avi)
   - [Heat Maps With Yolo v11](https://github.com/alirezasaharkhiz9/Computer-Vision/blob/main/Modern%20Computer%20Vision/Object%20Tracking/HeatMapsWithYolo.ipynb) - [Download Result Video](https://raw.githubusercontent.com/alirezasaharkhiz9/undergraduate-project-computer-vision/main/Modern%20Computer%20Vision/Object%20Tracking/heatmap_output.avi
 )
-- [*Pose Estimation*](https://github.com/alirezasaharkhiz9/Computer-Vision/tree/main/Modern%20Computer%20Vision/Pose%20Estimation)
+- [***Pose Estimation***](https://github.com/alirezasaharkhiz9/Computer-Vision/tree/main/Modern%20Computer%20Vision/Pose%20Estimation)
 
   - [Pose Estimation With Yolo v11 (human pose estimation)](https://github.com/alirezasaharkhiz9/Computer-Vision/blob/main/Modern%20Computer%20Vision/Pose%20Estimation/PoseEstimationWithYolo.ipynb)
-- [*Face Recognition*](https://github.com/alirezasaharkhiz9/Computer-Vision/tree/main/Modern%20Computer%20Vision/Face%20Recognition)
+- [***Face Recognition***](https://github.com/alirezasaharkhiz9/Computer-Vision/tree/main/Modern%20Computer%20Vision/Face%20Recognition)
 
   - [Facial Recognition With Deep Face](https://github.com/alirezasaharkhiz9/Computer-Vision/blob/main/Modern%20Computer%20Vision/Face%20Recognition/FacialRecognitionWithDeepFace.ipynb)
 

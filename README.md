@@ -28,31 +28,39 @@ The project will be organized into the following sections:
 - [*OCR*](https://github.com/alirezasaharkhiz9/Computer-Vision/tree/main/Classical%20Computer%20Vision/OCR)
   - [Text Detection](https://github.com/alirezasaharkhiz9/Computer-Vision/blob/main/Classical%20Computer%20Vision/OCR/TextDetection.ipynb)
 #### 2. [Modern Computer Vision - Deep Learning](https://github.com/alirezasaharkhiz9/undergraduate-project-computer-vision/tree/main/Modern%20Computer%20Vision)
-- Image Classification
+- [*Image Classification*](https://github.com/alirezasaharkhiz9/Computer-Vision/tree/main/Modern%20Computer%20Vision/Image%20Classification)
+  
   - [Cnn Model theory](https://github.com/alirezasaharkhiz9/undergraduate-project-computer-vision/blob/main/Modern%20Computer%20Vision/CnnModelTheory.ipynb)
   - [Cnn With Keras (Normal, Pneumonia and Tuberculosis Lungs)](https://github.com/alirezasaharkhiz9/undergraduate-project-computer-vision/blob/main/Modern%20Computer%20Vision/CnnWithKeras.ipynb)
   - [CNN With Pytorch Lightning (Fundus Glaucoma Detection)](https://github.com/alirezasaharkhiz9/undergraduate-project-computer-vision/blob/main/Modern%20Computer%20Vision/CnnWithPytorchLightning.ipynb)
   - [Residual Network With Pytorch Lightning (Normal, Pneumonia and Tuberculosis Lungs)](https://github.com/alirezasaharkhiz9/undergraduate-project-computer-vision/blob/main/Modern%20Computer%20Vision/ResidualNetworkWithPytorchLightning.ipynb)
-- Image Manipulation
+- [*Image Manipulation*](https://github.com/alirezasaharkhiz9/Computer-Vision/tree/main/Modern%20Computer%20Vision/Image%20Manipulation)
+
   - [AutoEncoder With Keras (The main objective of creating this dataset is to create autoencoder network that can colorized grayscale landscape images)](https://github.com/alirezasaharkhiz9/undergraduate-project-computer-vision/blob/main/Modern%20Computer%20Vision/AutoEncoderWithKeras.ipynb)
-- Image Generation
+- [*Image Generation*](https://github.com/alirezasaharkhiz9/Computer-Vision/tree/main/Modern%20Computer%20Vision/Image%20Generation)
+
   - [DCGAN With Keras (GAN using the MNIST dataset)](https://github.com/alirezasaharkhiz9/undergraduate-project-computer-vision/blob/main/Modern%20Computer%20Vision/DCGANWithKeras.ipynb)
-- Image Segmentation
+- [*Image Segmentation*](https://github.com/alirezasaharkhiz9/Computer-Vision/tree/main/Modern%20Computer%20Vision/Image%20Segmentation)
+
   - [Lungs Segmentation Using U-Net architecture](https://github.com/alirezasaharkhiz9/undergraduate-project-computer-vision/blob/main/Modern%20Computer%20Vision/LungsSegmentationUsingU_Net.ipynb)
   - [Tumor Segmentation Using Yolo v11](https://github.com/alirezasaharkhiz9/undergraduate-project-computer-vision/blob/main/Modern%20Computer%20Vision/TumorSegmentationUsingYolo.ipynb)
-- Object Detection
+- [*Object Detection*](https://github.com/alirezasaharkhiz9/Computer-Vision/tree/main/Modern%20Computer%20Vision/Object%20Detection)
+
   - [Object Detection Using YOLO v5 (road-detection)](https://github.com/alirezasaharkhiz9/undergraduate-project-computer-vision/blob/main/Modern%20Computer%20Vision/ObjectDetectionUsingYOLOv5.ipynb)
   - [Object Detection Using YOLO v8 (Bone Fracture Detection)](https://github.com/alirezasaharkhiz9/undergraduate-project-computer-vision/blob/main/Modern%20Computer%20Vision/ObjectDetectionUsingYOLOv8.ipynb)
   - [Object Detection Using YOLO v11 (Tumor Detection)](https://github.com/alirezasaharkhiz9/undergraduate-project-computer-vision/blob/main/Modern%20Computer%20Vision/TumorDetectionUsingYolov11.ipynb)
-- Object Tracking
+- [*Object Tracking*](https://github.com/alirezasaharkhiz9/Computer-Vision/tree/main/Modern%20Computer%20Vision/Object%20Tracking)
+
   - [Object Tracking With YOLO v11](https://github.com/alirezasaharkhiz9/undergraduate-project-computer-vision/blob/main/Modern%20Computer%20Vision/ObjectTrackingWithYolo.ipynb) - [Download Result Video](https://raw.githubusercontent.com/alirezasaharkhiz9/undergraduate-project-computer-vision/main/Modern%20Computer%20Vision/ObjectTrackingWithYolo.avi)
   - [Tracking and Counting With YOLO v11](https://github.com/alirezasaharkhiz9/undergraduate-project-computer-vision/blob/main/Modern%20Computer%20Vision/TrackingAndCounting.ipynb) - [Download Result Video](https://raw.githubusercontent.com/alirezasaharkhiz9/undergraduate-project-computer-vision/main/Modern%20Computer%20Vision/TrackingAndCounting.mp4)
   - [Speed Estimation With YOLO v11](https://github.com/alirezasaharkhiz9/undergraduate-project-computer-vision/blob/main/Modern%20Computer%20Vision/SpeedEstimation.ipynb) - [Download Result Video](https://raw.githubusercontent.com/alirezasaharkhiz9/undergraduate-project-computer-vision/main/Modern%20Computer%20Vision/SpeedEstimation.avi)
   - [Heat Maps With Yolo v11](https://github.com/alirezasaharkhiz9/undergraduate-project-computer-vision/blob/main/Modern%20Computer%20Vision/HeatMapsWithYolo.ipynb) - [Download Result Video](https://raw.githubusercontent.com/alirezasaharkhiz9/undergraduate-project-computer-vision/main/Modern%20Computer%20Vision/heatmap_output.avi
 )
-- Pose Estimation
+- [*Pose Estimation*](https://github.com/alirezasaharkhiz9/Computer-Vision/tree/main/Modern%20Computer%20Vision/Pose%20Estimation)
+
   - [Pose Estimation With Yolo v11 (human pose estimation)](https://github.com/alirezasaharkhiz9/undergraduate-project-computer-vision/blob/main/Modern%20Computer%20Vision/PoseEstimationWithYolo.ipynb)
-- Face Recognition
+- [*Face Recognition*](https://github.com/alirezasaharkhiz9/Computer-Vision/tree/main/Modern%20Computer%20Vision/Face%20Recognition)
+
   - [Facial Recognition With Deep Face](https://github.com/alirezasaharkhiz9/undergraduate-project-computer-vision/blob/main/Modern%20Computer%20Vision/FacialRecognitionWithDeepFace.ipynb)
 
 ### Modern CV vs Classical CV

@@ -16,16 +16,16 @@ This undergraduate project focuses on exploring and developing advanced techniqu
 
 The project will be organized into the following sections:
 #### 1. [Classical Computer Vision](https://github.com/alirezasaharkhiz9/undergraduate-project-computer-vision/tree/main/Classical%20Computer%20Vision)
-- Image Processing
-  - [Image processing](https://github.com/alirezasaharkhiz9/undergraduate-project-computer-vision/blob/main/Classical%20Computer%20Vision/ImageProcessing.ipynb)
-- Video Processing
-  - [Working with Video](https://github.com/alirezasaharkhiz9/undergraduate-project-computer-vision/blob/main/Classical%20Computer%20Vision/WorkingWithVideo.ipynb)
-- Object Detection
-  - [Object Detection](https://github.com/alirezasaharkhiz9/undergraduate-project-computer-vision/blob/main/Classical%20Computer%20Vision/ObjectDetection.ipynb)
-- Face Detection
-  - [Face Detection](https://github.com/alirezasaharkhiz9/undergraduate-project-computer-vision/blob/main/Classical%20Computer%20Vision/FaceDetection.ipynb)
-- OCR
-  - [Text Detection](https://github.com/alirezasaharkhiz9/undergraduate-project-computer-vision/blob/main/Classical%20Computer%20Vision/TextDetection.ipynb)
+- [Image Processing](https://github.com/alirezasaharkhiz9/Computer-Vision/tree/main/Classical%20Computer%20Vision/Image%20Processing)
+  - [Image processing](https://github.com/alirezasaharkhiz9/Computer-Vision/blob/main/Classical%20Computer%20Vision/Image%20Processing/ImageProcessing.ipynb)
+- [Video Processing](https://github.com/alirezasaharkhiz9/Computer-Vision/tree/main/Classical%20Computer%20Vision/Video%20Processing)
+  - [Working with Video](https://github.com/alirezasaharkhiz9/Computer-Vision/blob/main/Classical%20Computer%20Vision/Video%20Processing/WorkingWithVideo.ipynb)
+- [Object Detection](https://github.com/alirezasaharkhiz9/Computer-Vision/tree/main/Classical%20Computer%20Vision/Object%20Detection)
+  - [Object Detection](https://github.com/alirezasaharkhiz9/Computer-Vision/blob/main/Classical%20Computer%20Vision/Object%20Detection/ObjectDetection.ipynb)
+- [Face Detection](https://github.com/alirezasaharkhiz9/Computer-Vision/tree/main/Classical%20Computer%20Vision/Face%20Detection)
+  - [Face Detection](https://github.com/alirezasaharkhiz9/Computer-Vision/blob/main/Classical%20Computer%20Vision/Face%20Detection/FaceDetection.ipynb)
+- [OCR](https://github.com/alirezasaharkhiz9/Computer-Vision/tree/main/Classical%20Computer%20Vision/OCR)
+  - [Text Detection](https://github.com/alirezasaharkhiz9/Computer-Vision/blob/main/Classical%20Computer%20Vision/OCR/TextDetection.ipynb)
 #### 2. [Modern Computer Vision - Deep Learning](https://github.com/alirezasaharkhiz9/undergraduate-project-computer-vision/tree/main/Modern%20Computer%20Vision)
 - Image Classification
   - [Cnn Model theory](https://github.com/alirezasaharkhiz9/undergraduate-project-computer-vision/blob/main/Modern%20Computer%20Vision/CnnModelTheory.ipynb)

@@ -55,7 +55,7 @@ The project will be organized into the following sections:
 
   - [Object Detection Using YOLO v5 (road-detection)](https://github.com/alirezasaharkhiz9/Computer-Vision/blob/main/Modern%20Computer%20Vision/Object%20Detection/ObjectDetectionUsingYOLOv5.ipynb)
 
-  - [Object Detection Using YOLO v8 (Bone Fracture Detection)](https://github.com/alirezasaharkhiz9/undergraduate-project-computer-vision/blob/main/Modern%20Computer%20Vision/ObjectDetectionUsingYOLOv8.ipynb)
+  - [Object Detection Using YOLO v8 (Bone Fracture Detection)](https://github.com/alirezasaharkhiz9/Computer-Vision/blob/main/Modern%20Computer%20Vision/Object%20Detection/ObjectDetectionUsingYOLOv8.ipynb)
   - [Object Detection Using YOLO v11 (Tumor Detection)](https://github.com/alirezasaharkhiz9/Computer-Vision/blob/main/Modern%20Computer%20Vision/Object%20Detection/TumorDetectionUsingYolov11.ipynb)
 
 - [***Object Tracking***](https://github.com/alirezasaharkhiz9/Computer-Vision/tree/main/Modern%20Computer%20Vision/Object%20Tracking)
